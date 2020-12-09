@@ -1,0 +1,24 @@
+2020-12-08 13:46:42,106 [3908] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2020-12-08 13:46:42,107 [3908] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2020-12-08 13:46:42,107 [3908] INFO     root:247: [JupyterRequire] Initializing comms.
+2020-12-08 13:46:42,110 [3908] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2020-12-08 13:46:42,111 [3908] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2020-12-08 13:46:42,111 [3908] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2020-12-08 13:46:42,962 [3908] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2020-12-08 13:46:42,969 [3908] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2020-12-08 13:46:42,970 [3908] INFO     root:247: [JupyterRequire] Initializing comms.
+2020-12-08 13:46:42,973 [3908] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2020-12-08 13:46:42,974 [3908] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2020-12-08 13:46:42,975 [3908] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2020-12-08 18:00:49,595 [14756] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2020-12-08 18:00:49,626 [14756] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2020-12-08 18:00:49,627 [14756] INFO     root:247: [JupyterRequire] Initializing comms.
+2020-12-08 18:00:49,637 [14756] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2020-12-08 18:00:49,640 [14756] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2020-12-08 18:00:49,641 [14756] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2020-12-08 18:05:33,123 [14756] WARNING  py.warnings:109: [JupyterRequire] C:\Users\u82929\Anaconda3\lib\site-packages\pandas\compat\_optional.py:124: UserWarning: Pandas requires version '0.9.8' or newer of 'xlsxwriter' (version '0.9.3' currently installed).
+  warnings.warn(msg, UserWarning)
+
+2020-12-08 18:56:22,852 [14756] WARNING  py.warnings:109: [JupyterRequire] <ipython-input-262-d88c8dbadf87>:1: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  y = newspapers[(np_coeff['NPNAME1'] == 'abilenereporternewsTX')&(newspapers['year'] == 2009)]
+
